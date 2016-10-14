@@ -1,0 +1,5 @@
+C:\dataleixu\temp\MockSample\MockSample\bin\Debug\MockSample.dll
+C:\dataleixu\temp\MockSample\MockSample\bin\Debug\MockSample.pdb
+C:\dataleixu\temp\MockSample\MockSample\obj\Debug\MockSample.dll
+C:\dataleixu\temp\MockSample\MockSample\obj\Debug\MockSample.pdb
+C:\dataleixu\temp\MockSample\MockSample\obj\Debug\MockSample.csprojResolveAssemblyReference.cache

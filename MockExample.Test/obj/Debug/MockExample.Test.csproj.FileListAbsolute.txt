@@ -1,0 +1,15 @@
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\MockExample.Test.dll
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\MockExample.Test.pdb
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\Castle.Core.dll
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\FluentAssert.dll
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\MockSample.dll
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\Moq.dll
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\MockSample.pdb
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\Castle.Core.xml
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\FluentAssert.pdb
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\Moq.xml
+C:\dataleixu\temp\MockSample\MockExample.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\dataleixu\temp\MockSample\MockExample.Test\obj\Debug\MockExample.Test.csprojResolveAssemblyReference.cache
+C:\dataleixu\temp\MockSample\MockExample.Test\obj\Debug\MockExample.Test.dll
+C:\dataleixu\temp\MockSample\MockExample.Test\obj\Debug\MockExample.Test.pdb
