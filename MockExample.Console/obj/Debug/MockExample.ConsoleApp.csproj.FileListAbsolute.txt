@@ -1,8 +1,0 @@
-C:\dataleixu\temp\MockSample\MockExample.Console\bin\Debug\MockExample.Console.exe.config
-C:\dataleixu\temp\MockSample\MockExample.Console\bin\Debug\MockExample.Console.exe
-C:\dataleixu\temp\MockSample\MockExample.Console\bin\Debug\MockExample.Console.pdb
-C:\dataleixu\temp\MockSample\MockExample.Console\bin\Debug\MockSample.dll
-C:\dataleixu\temp\MockSample\MockExample.Console\bin\Debug\MockSample.pdb
-C:\dataleixu\temp\MockSample\MockExample.Console\obj\Debug\MockExample.ConsoleApp.csprojResolveAssemblyReference.cache
-C:\dataleixu\temp\MockSample\MockExample.Console\obj\Debug\MockExample.Console.exe
-C:\dataleixu\temp\MockSample\MockExample.Console\obj\Debug\MockExample.Console.pdb
